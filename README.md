@@ -1,4 +1,4 @@
 # masterthesis
 Code used to analyse the data from my master thesis: ''The influence of stress on Parkinson's tremor''.
 
-Link: https://jorvlan.github.io/publications/Thesis_JVL_01072019.pdf
+Link: 10.13140/RG.2.2.33608.96001 
